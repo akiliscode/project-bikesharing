@@ -2,7 +2,7 @@
 
 > In this project which is part of Udacity Deep Learning Nanodegree program, I built a neural network using only Numpy to carry out a prediction problem on bike sharing patterns prediction. This project implements forward and back propagation. 
 
->My contribution is located in the [my_answers.py](my_answers.py) . Optionnaly consult it 
+>My contribution is located in the [my_answers.py](my_answers.py) . Optionnaly, consult it 
 
 
 
